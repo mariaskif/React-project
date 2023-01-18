@@ -1,0 +1,24 @@
+.font{
+    font-family: "Cairo",sans-serif;
+    font-size: 20px;
+}
+.color-body{
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+.rectangel{
+    height: 600px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 1px 4px 4px 1px rgb(85,85,85, 0.25);
+}
+.dates-count{
+    color: #555555;
+    font-weight: 600;
+margin-bottom: 20px;
+}
+.images{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
